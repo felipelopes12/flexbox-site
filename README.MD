@@ -2,10 +2,10 @@ Flexbox site de cursos
 =======
 ## 💻 Projeto
 
-<blockquote align="center">“Aprenda Programação, Front-end, Data Science, UX, DevOps, Marketing,
+Aprenda Programação, Front-end, Data Science, UX, DevOps, Marketing,
  Inovação e Gestão plataforma de tecnologia, site feito usando  layout flexível permite que os 
 elementos responsivos dentro de um contêiner sejam organizados automaticamente, dependendo do tamanho da tela. .
-”</blockquote>
+
 
 <p align="center">
   <img alt="Flexbox cursos de tecnologia screenshot" src="imagem/inicio.PNG" width="100%">
