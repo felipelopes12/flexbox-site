@@ -4,8 +4,7 @@ Flexbox site de cursos
 
 Aprenda Programação, Front-end, Data Science, UX, DevOps, Marketing,
  Inovação e Gestão plataforma de tecnologia, site feito usando  layout flexível permite que os 
-elementos responsivos dentro de um contêiner sejam organizados automaticamente, dependendo do tamanho da tela. .
-
+elementos responsivos dentro de um contêiner sejam organizados automaticamente, dependendo do tamanho da tela. 
 
 <p align="center">
   <img alt="Flexbox cursos de tecnologia screenshot" src="imagem/inicio.PNG" width="100%">
